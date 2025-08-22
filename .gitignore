@@ -1,0 +1,16 @@
+*
+
+!/.gitignore
+
+!*.go
+!go.sum
+!go.mod
+!Justfile
+
+!*.md
+!COPYING
+
+!examples/*.json
+!internal/trackers/data.minify.json
+
+!*/
