@@ -4,6 +4,4 @@ A [free](https://www.gnu.org/philosophy/free-sw.en.html) Discord bot that remove
 
 ## License and Policies
 
-Clipit is licensed under the GNU Affero General Public License, version 3.
-
-Clipit has a [privacy policy](PRIVACY_POLICY.md) and [Terms of Service](TERMS_OF_SERVICE.md), as required by Discord.
+Clipit is licensed under the GNU Affero General Public License, version 3. See the [COPYING](COPYING) file.
