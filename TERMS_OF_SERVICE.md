@@ -1,12 +1,6 @@
 # Clipit Terms of Service
 
-- [Clipit Terms of Service](#clipit-terms-of-service)
-  - [Definitions](#definitions)
-  - [Licensing](#licensing)
-  - [Third Parties](#third-parties)
-  - [Disclaimer](#disclaimer)
-  - [Contact](#contact)
-
+Clipit aims to uphold the essential freedoms that all users should have: the freedom to run, copy, distribute, study, change and improve the software. Clipit does not aim to infringe on your freedoms; we keep the Terms of Service short and sweet.
 
 ## Definitions
 
@@ -14,17 +8,12 @@
 - **"You"**, **"you"**, **"Your"**, and **"your"** refer to the individual using Clipit.
 - **"License"** means the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl/) as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-## Licensing
-
-Clipit is free software: you may redistribute and/or modify it under the terms of the License.
-You should have received a copy of the License along with Clipit; see the file [COPYING](COPYING). If not, see <https://www.gnu.org/licenses/agpl>.
-
 ## Third Parties
 
-By using Clipit, you agree to comply with Discord's [Terms of Service](https://discord.com/terms) and [Privacy Policy](https://discord.com/privacy).
-
-Clipit uses third-party Go packages. See the [go.mod](go.mod) and [go.sum](go.sum) files for full details. Any data handled by
-these packages is subject to their own policies, including, but not limited to, licensing, privacy policies, and terms of service.
+Clipit uses third-party Go packages (see [go.mod](go.mod) and [go.sum](go.sum)) and operates on the Discord platform.
+Use of these third-party services is subject to their respective terms, including, but not limited to, their
+licensing, privacy policies, and terms of service. Clipit itself does not control these services, but use of
+Clipit constitutes acceptance of their terms.
 
 ## Disclaimer
 
